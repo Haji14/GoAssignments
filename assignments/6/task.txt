@@ -1,0 +1,22 @@
+1.Write a program to implement Loan interface to declare getEmi() function.
+  Write two struts HousingLoan,PersonalLoan
+  
+  getEmi() of HousingLoan => 9% of principleAmount
+
+  getEmi() of PersonalLoan => 12% of principleAmount
+
+2.Write a program  to read a file and display the content of the text 
+  file in uppercase,count and no of words and vowels in the content.
+
+3.Write a program to read Product.txt file and store product details
+  into array of structrue.
+
+  Input product id at runtime and display only price for the given id.
+
+
+Product.txt  ===  id   name    model   price
+sample content of the file is as below
+
+  01,Laptop,Lenova,39999
+  02,Tab,Samsung,13999
+  03,Desktop,HP,49999
